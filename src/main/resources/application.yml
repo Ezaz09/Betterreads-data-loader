@@ -1,3 +1,7 @@
+datadump.location:
+  author: src/main/resources/data/test-authors.txt
+  works: src/main/resources/data/test-works.txt
+
 spring:
   data:
     cassandra:
